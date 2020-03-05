@@ -21,8 +21,8 @@ line-height: 1.8em;
 #part2 {
     position: absolute;
     left: 50px;
-    bottom: 50px;
-    width: 600px;
+    bottom: 20px;
+    width: 500px;
     height: 150px;
 }
 #myCounter {
@@ -43,4 +43,16 @@ h4 {
 li {
     display: block;
     margin-bottom: 15px;
+}
+#result {
+    margin-left: 200px;
+    font-size: 30px;
+    
+}
+.nodisplay {
+    display: none;
+
+}
+.display1 {
+    display: block;
 }
